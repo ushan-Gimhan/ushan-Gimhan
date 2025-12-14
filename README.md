@@ -69,7 +69,8 @@ const ushan: Developer = {
 <td width="50%">
 
 ### ⚡ Current Streak
-<img src="https://streak-stats.demolab.com?user=ushan-Gimhan&theme=react&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" width="100%"/>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ushan-Gimhan&theme=react&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 </td>
 </tr>
