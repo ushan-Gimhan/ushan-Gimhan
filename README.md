@@ -170,15 +170,17 @@ Complete management system for therapy centers with appointment scheduling and p
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ushan-Gimhan&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ushan-Gimhan&theme=onedark&no-frame=true&no-bg=false&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/ushan-Gimhan/ushan-Gimhan/main/your-divider.gif" width="100%"/>
 
 <br/>
+
 
 <!-- Connect Section -->
 <div align="center">
