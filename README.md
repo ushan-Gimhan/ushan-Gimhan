@@ -4,20 +4,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0&animation=twinkling&reversal=false"/>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka%20🇱🇰-1E90FF?style=for-the-badge&labelColor=000000&logo=google-maps&logoColor=FFFFFF&height=40"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Age-26-2563EB?style=for-the-badge&logo=person&logoColor=FFFFFF&height=40"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Status-Actively%20Coding-32CD32?style=for-the-badge&logo=statuspal&logoColor=FFFFFF&height=40"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Goal-Software%20Engineer%20Intern-FBBF24?style=for-the-badge&logo=briefcase&logoColor=FFFFFF&height=40"/>
+    <img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka%20🇱🇰-1E90FF?style=for-the-badge&labelColor=000000&logo=google-maps&logoColor=FFFFFF&height=40" alt="Location"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Age-26-2563EB?style=for-the-badge&logo=person&logoColor=FFFFFF&height=40" alt="Age"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Status-Actively%20Coding-32CD32?style=for-the-badge&logo=statuspal&logoColor=FFFFFF&height=40" alt="Status"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Goal-Software%20Engineer%20Intern-FBBF24?style=for-the-badge&logo=briefcase&logoColor=FFFFFF&height=40" alt="Goal"/>
 </div>
 
 <!-- Futuristic Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000428,100:004e92&text=USHAN%20GHIMHAN&fontSize=70&fontColor=33CCFF&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20Intern%20%7C%20Java%20%26%20Web%20Developer&descSize=20&descAlignY=65&fontAlign=50&font=Audiowide"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000428,100:004e92&text=USHAN%20GHIMHAN&fontSize=70&fontColor=33CCFF&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Undergraduate%20%7C%20Developer%20%26%20Problem%20Solver&descSize=20&descAlignY=65&fontAlign=50&font=Audiowide" alt="Header"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -34,20 +32,24 @@
 class Developer {
   constructor() {
     this.name = "Ushan Ghimhan";
-    this.role = "Software Engineer Intern";
+    this.role = "Software Engineering Undergraduate";
     this.location = "Sri Lanka 🌏";
     this.age = 26;
+    this.currentFocus = "Software Engineer Internship";
+    
     this.techStack = {
       languages: ["Java", "JavaScript", "Python"],
-      frontend: ["HTML", "CSS", "Bootstrap", "React (Basics)"],
+      frontend: ["HTML5", "CSS3", "Bootstrap", "React (Basics)"],
       backend: ["Node.js", "Spring Boot"],
       databases: ["MySQL", "MongoDB"],
       tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA", "Postman"]
     };
+    
+    this.interests = ["Web Development", "Problem Solving", "Clean Code"];
   }
-
+  
   sayHi() {
-    console.log("Thanks for visiting my GitHub profile! 🚀");
+    console.log("Thanks for stopping by! Let's build something awesome 🚀");
   }
 }
 
@@ -78,9 +80,8 @@ ushan.sayHi();
 </div>
 
 <div align="center">
-
+  
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ushan-Gimhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117,1a1b27,2d1b69&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00F5FF&fire_color=FF6D00&custom_title=⚡+GITHUB+PERFORMANCE" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=ushan-Gimhan&theme=radical&hide_border=true&background=0d1117,1a1b27,2d1b69&ring=00F5FF&fire=FF6D00&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
@@ -88,7 +89,7 @@ ushan.sayHi();
 <br/>
 
 <div align="center">
-
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushan-Gimhan&bg_color=0d1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=🔥+CONTRIBUTION+HEATMAP" width="100%" alt="Activity Graph"/>
 
 </div>
@@ -99,7 +100,6 @@ ushan.sayHi();
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-
 ## 🔧 TECH STACK ARSENAL
 
 <div align="center">
@@ -111,7 +111,7 @@ ushan.sayHi();
 
 ### *Frameworks & Libraries*
 <div style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,hibernate&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring&theme=dark" alt="Frameworks"/>
 </div>
 
 ### *Tools & Environment*
@@ -127,7 +127,6 @@ ushan.sayHi();
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-
 ## 🏆 ACHIEVEMENTS & MILESTONES
 
 <img src="https://github-profile-trophy.vercel.app/?username=ushan-Gimhan&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%" alt="Trophies"/>
@@ -140,7 +139,6 @@ ushan.sayHi();
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-
 ## 🚀 FEATURED PROJECTS
 
 <table>
@@ -165,8 +163,7 @@ ushan.sayHi();
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-
+<div align="center">  
 ## 🌐 CONNECT & COLLABORATE
 
 <table>
