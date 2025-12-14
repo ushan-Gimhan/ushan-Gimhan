@@ -11,6 +11,14 @@
 </div>
 
 <!-- Futuristic Header -->
+<!-- Capsule Render Header -->
+![Ushan Ghimhan Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=USHAN%20GHIMHAN&fontSize=70&fontColor=33CCFF&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Undergraduate%20%7C%20Developer%20%26%20Problem%20Solver&descSize=20&descAlignY=65)
+
+<div align="center">
+<!-- rest of your README content here -->
+...
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000428,100:004e92&text=USHAN%20GHIMHAN&fontSize=70&fontColor=33CCFF&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Undergraduate%20%7C%20Developer%20%26%20Problem%20Solver&descSize=20&descAlignY=65&fontAlign=50&font=Audiowide" alt="Header"/>
 
 </div>
