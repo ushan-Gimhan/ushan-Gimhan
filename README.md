@@ -1,194 +1,228 @@
-<!-- HEADER (Capsule Render) -->
-<!-- HEADER (Capsule Render) -->
-
 <div align="center">
 
-<!-- Modern Wave Separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+<!-- Dynamic Header with Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F5FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ushan+Ghimhan+%F0%9F%91%8B;Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka%20🇱🇰-1E90FF?style=for-the-badge&labelColor=000000&logo=google-maps&logoColor=FFFFFF&height=40" alt="Location"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Age-26-2563EB?style=for-the-badge&logo=person&logoColor=FFFFFF&height=40" alt="Age"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Status-Actively%20Coding-32CD32?style=for-the-badge&logo=statuspal&logoColor=FFFFFF&height=40" alt="Status"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Goal-Software%20Engineer%20Intern-FBBF24?style=for-the-badge&logo=briefcase&logoColor=FFFFFF&height=40" alt="Goal"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn&fontColor=fff" />
 
 </div>
-
-![Ushan Ghimhan Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=USHAN%20GHIMHAN&desc=Software%20Engineering%20Undergraduate%20Developer%20Problem%20Solver&fontSize=70&descSize=28&fontAlignY=45&descAlignY=65)
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- About Me Section with Modern Cards -->
+<div align="center">
 
-## ⚡ SYSTEM.PROFILE.LOAD()
+## 🌟 About Me
 
-<table align="center">
+<table>
 <tr>
-<td width="60%" valign="top">
+<td>
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Ushan Ghimhan";
-    this.role = "Software Engineering Undergraduate";
-    this.location = "Sri Lanka 🌏";
-    this.age = 26;
-    this.currentFocus = "Software Engineer Internship";
-    
-    this.techStack = {
-      languages: ["Java", "JavaScript", "Python"],
-      frontend: ["HTML5", "CSS3", "Bootstrap", "React (Basics)"],
-      backend: ["Node.js", "Spring Boot"],
-      databases: ["MySQL", "MongoDB"],
-      tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA", "Postman"]
-    };
-    
-    this.interests = ["Web Development", "Problem Solving", "Clean Code"];
-  }
+```typescript
+const ushan: Developer = {
+  location: "🇱🇰 Sri Lanka",
+  age: 26,
+  role: "Software Engineering Student",
+  passion: "Turning ideas into elegant code",
   
-  sayHi() {
-    console.log("Thanks for stopping by! Let's build something awesome 🚀");
-  }
-}
-
-const ushan = new Developer();
-ushan.sayHi();
+  currentlyLearning: ["Advanced React", "Spring Boot", "System Design"],
+  lookingFor: "Software Engineer Internship 💼",
+  
+  code: ["Java", "JavaScript", "Python"],
+  technologies: {
+    frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
+    backend: ["Node.js", "Spring Boot"],
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Git", "VS Code", "Postman", "IntelliJ"]
+  },
+  
+  motto: "Clean code, clear mind ✨"
+};
 ```
 
 </td>
-<td width="40%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding GIF"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushan-Gimhan&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00FF&langs_count=10" width="100%" alt="Languages"/>
-
-</td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 REAL-TIME ANALYTICS
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ushan-Gimhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117,1a1b27,2d1b69&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF&ring_color=00F5FF&fire_color=FF6D00&custom_title=⚡+GITHUB+PERFORMANCE" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ushan-Gimhan&theme=radical&hide_border=true&background=0d1117,1a1b27,2d1b69&ring=00F5FF&fire=FF6D00&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-</div>
-
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ushan-Gimhan&bg_color=0d1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=🔥+CONTRIBUTION+HEATMAP" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🔧 TECH STACK ARSENAL
-
+<!-- GitHub Stats Section with Modern Layout -->
 <div align="center">
 
-### *Languages & Core Technologies*
-<div style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,python&theme=dark" alt="Languages"/>
-</div>
+## 📊 GitHub Analytics
 
-### *Frameworks & Libraries*
-<div style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring&theme=dark" alt="Frameworks"/>
-</div>
-
-### *Tools & Environment*
-<div style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&theme=dark" alt="Tools"/>
-</div>
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏆 ACHIEVEMENTS & MILESTONES
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ushan-Gimhan&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%" alt="Trophies"/>
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/ushan-Gimhan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ushan-Gimhan&repo=Parking-Lot-Management-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00FF" width="100%"/>
-</a>
+
+### 🔥 Stats Overview
+<img src="https://github-readme-stats.vercel.app/api?username=ushan-Gimhan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&rank_icon=github" width="100%"/>
+
 </td>
 <td width="50%">
-<a href="https://github.com/ushan-Gimhan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ushan-Gimhan&repo=Therapy-Center-Management-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF&icon_color=FF00FF" width="100%"/>
-</a>
+
+### ⚡ Current Streak
+<img src="https://streak-stats.demolab.com?user=ushan-Gimhan&theme=react&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" width="100%"/>
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ushan-Gimhan&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area_color=00F5FF&area=true&hide_border=true" width="100%"/>
+
+<br/>
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushan-Gimhan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" width="50%"/>
+
 </div>
 
 <br/>
 
-<!-- Divider -->
+<!-- Tech Stack with Modern Icons -->
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+### 💡 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 CONNECT & COLLABORATE
+<br/>
 
+<!-- Featured Projects -->
 <div align="center">
+
+## 🎯 Featured Projects
+
 <table>
 <tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/ushan-ghimhan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
+<td width="50%" valign="top">
+
+### 🚗 Parking Lot Management System
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-00F5FF?style=for-the-badge&logo=github)](https://github.com/ushan-Gimhan/Parking-Lot-Management-System)
+
+Comprehensive solution for managing parking facilities with real-time availability tracking and automated billing.
+
+**Tech Stack:** Java • Spring Boot • MySQL
+
 </td>
-<td align="center">
-<a href="mailto:ushangimhan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/ushan-Gimhan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-</a>
+<td width="50%" valign="top">
+
+### 🏥 Therapy Center Management
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-00F5FF?style=for-the-badge&logo=github)](https://github.com/ushan-Gimhan/Therapy-Center-Management-System)
+
+Complete management system for therapy centers with appointment scheduling and patient records.
+
+**Tech Stack:** Java • Node.js • MongoDB
+
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
 
-### 💼 Currently Open For:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-💻 Internship • 🤝 Collaboration • 🌟 Open Source • 💡 Tech Discussions
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ushan-Gimhan&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Connect!
+
+<p>
+I'm always excited to collaborate on innovative projects or discuss tech! Feel free to reach out 🚀
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ushan-ghimhan)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ushangimhan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ushan-Gimhan)
+
+<br/>
+
+### 🎯 What I'm Looking For
+
+```
+💼 Software Engineer Internship
+🤝 Open Source Contributions
+🌟 Collaborative Projects
+💡 Knowledge Exchange
+```
+
+<br/>
+
+### 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ushan-Gimhan&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <br/>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=FFFFFF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <div align="center">
-  <sub>Built with ❤️ by Ushan Ghimhan</sub>
+  
+### 💭 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<sub>⭐ From [ushan-Gimhan](https://github.com/ushan-Gimhan) with 💙</sub>
+
 </div>
