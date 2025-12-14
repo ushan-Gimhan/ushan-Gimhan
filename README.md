@@ -1,6 +1,7 @@
 <!-- HEADER (Capsule Render) -->
 <!-- HEADER (Capsule Render) --> 
-![Ushan Ghimhan Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=USHAN%20GHIMHAN&fontSize=70&fontColor=33CCFF&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Undergraduate%20%7C%20Developer%20%26%20Problem%20Solver&descSize=20&descAlignY=65)
+![Ushan Ghimhan Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=USHAN%20GHIMHAN-nl-Software%20Engineering%20Undergraduate%20%7C%20Developer%20%26%20Problem%20Solver&fontSize=60,30&fontAlign=50,50&fontAlignY=40,60)
+
 
 
 <div align="center">
