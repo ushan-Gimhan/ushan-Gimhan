@@ -151,6 +151,8 @@ Task management application that allows users to create, update, track, and comp
 
 Frontend application for the SwapSpot platform that enables users to exchange items or services through an interactive and user-friendly interface.
 
+**Tech Stack:** React • TypeScript • Tailwind CSS • Axios • Vite
+
 </td>
 </tr>
 </table>
