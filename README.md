@@ -136,22 +136,20 @@ const ushan: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Parking Lot Management System
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-00F5FF?style=for-the-badge&logo=github)](https://github.com/ushan-Gimhan/Parking-Lot-Management-System)
+### 📝 MiniTasker Project
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-00F5FF?style=for-the-badge&logo=github)](https://github.com/ushan-Gimhan/MiniTaskerProject)
 
-Comprehensive solution for managing parking facilities with real-time availability tracking and automated billing.
+Task management application that allows users to create, update, track, and complete tasks efficiently, helping improve productivity and organization.
 
 **Tech Stack:** Java • Spring Boot • MySQL
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Therapy Center Management
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-00F5FF?style=for-the-badge&logo=github)](https://github.com/ushan-Gimhan/Therapy-Center-Management-System)
+### 🔄 TRADEHUB Project
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-00F5FF?style=for-the-badge&logo=github)](https://github.com/ushan-Gimhan/SWAPSPOT_FE)
 
-Complete management system for therapy centers with appointment scheduling and patient records.
-
-**Tech Stack:** Java • Node.js • MongoDB
+Frontend application for the SwapSpot platform that enables users to exchange items or services through an interactive and user-friendly interface.
 
 </td>
 </tr>
